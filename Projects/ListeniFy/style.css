@@ -230,6 +230,7 @@ nav ul a .insta{
     width: 120%;
     height: 4px;
     margin-bottom: 6px;
+    cursor: pointer;
 }
 
 
@@ -990,6 +991,8 @@ nav ul a .insta{
     width: 50%;
     height: 2px;
     margin-bottom: 19px;
+    cursor: pointer;
+
 }
 
 
