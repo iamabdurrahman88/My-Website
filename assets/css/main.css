@@ -201,12 +201,8 @@ img{
 }
 .content{
     display: none;
-
-@keyframes spin{
-    100%{
-        transform: rotate(360deg);
-    }
 }
+
 
 
 
